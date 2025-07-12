@@ -1,0 +1,16 @@
+# Ignora pastas e arquivos temporários do Python
+_pycache_/
+*.pyc
+*.pyo
+
+# Ignora ambientes virtuais
+venv/
+.env
+
+# Ignora arquivos e pastas de configurações de editores (VSCode, PyCharm etc.)
+.vscode/
+.idea/
+
+# Arquivos do sistema (Windows/macOS)
+.DS_Store
+Thumbs.db
